@@ -34,11 +34,9 @@ At professional level the bouts are scored by three ringside judges using a subj
 
 It is, however, more common for a fight, especially at the heavier weights, to be stopped before the 12 rounds are up. A boxer is knocked out if they are floored and cannot get up within 10 seconds, whilst the referee may disqualify a fighter for certain foul play. The other method of winning is by a technical knockout or TKO. If a boxer is unwilling to continue, or is deemed unable to do so by either the referee or his corner team or medical staff then it is a TKO. This can also be awarded if a fighter is knocked down a defined number of times in a round (usually three).
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThCgvnjhTT3p3KMe5l1tABqHpsPYB97BcjAQ&usqp=CAU) ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgwyGFKXtBdGP_HC8GuFUrDboN95Mn1bcsDuoLsB2lVLon2AbsiCdCDF3DgzXprG81BXw&usqp=CAU) ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHb_Z1bvEM2Icp3BaE11SA91B2-TiT62MfhMqbPHtVgPW2PVIDmae5PZstOz2KOX7LPS0&usqp=CAU)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThCgvnjhTT3p3KMe5l1tABqHpsPYB97BcjAQ&usqp=CAU) ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgwyGFKXtBdGP_HC8GuFUrDboN95Mn1bcsDuoLsB2lVLon2AbsiCdCDF3DgzXprG81BXw&usqp=CAU) ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHb_Z1bvEM2Icp3BaE11SA91B2-TiT62MfhMqbPHtVgPW2PVIDmae5PZstOz2KOX7LPS0&usqp=CAU) ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm-blU-jkCTa6cEUriH0AcmFyVEZNYXN0b2w&usqp=CAU)
 
 The winner is either as scored by the judges if the fight goes the distance or is decided by knockout, technical knockout or disqualification, as detailed above.
-
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm-blU-jkCTa6cEUriH0AcmFyVEZNYXN0b2w&usqp=CAU)
 
 In amateur bouts different methods are used, for example the referee may simply decide or ringside judges use electronic scoring to count the number of blows landed.
 
