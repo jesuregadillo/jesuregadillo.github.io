@@ -3,7 +3,7 @@ Jan Zharyel Jesu Regadillo
 
 # **Boxing**
 
-![image](https://github.com/jesuregadillo/jesuregadillo.github.io/assets/152232698/0ce278cc-3f0f-4010-a94a-2c07307f8f44) ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2rSDmg8yaI59lbLFpgmmDUfANLB2I5Uu-Q&usqp=CAU) ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOPZJt1Fa-7h2PwnL1Ksg7jxA3PkfQPbRZCg&usqp=CAU)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2rSDmg8yaI59lbLFpgmmDUfANLB2I5Uu-Q&usqp=CAU) ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOPZJt1Fa-7h2PwnL1Ksg7jxA3PkfQPbRZCg&usqp=CAU)
 
 Boxing (also known as "western boxing" or "pugilism") is a combat sport and a martial art in which two people, usually wearing protective gloves and other protective equipment such as hand wraps and mouthguards, throw punches at each other for a predetermined amount of time in a boxing ring.
 
