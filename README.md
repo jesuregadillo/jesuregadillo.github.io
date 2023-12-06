@@ -1,7 +1,7 @@
 ## Jesuregadillo.github.io
 Jan Zharyel Jesu Regadillo
 
-**Boxing**
+# **Boxing**
 
 ![image](https://github.com/jesuregadillo/jesuregadillo.github.io/assets/152232698/0ce278cc-3f0f-4010-a94a-2c07307f8f44) ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2rSDmg8yaI59lbLFpgmmDUfANLB2I5Uu-Q&usqp=CAU) ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOPZJt1Fa-7h2PwnL1Ksg7jxA3PkfQPbRZCg&usqp=CAU)
 
@@ -13,22 +13,61 @@ Although the term boxing is commonly attributed to Western boxing, in which only
 ![image](https://img.freepik.com/free-photo/girl-kickboxer_654080-1885.jpg)
 
 
-**THE RULES IN BOXING**
+# **THE RULES IN BOXING**
 
-In professional boxing, bouts take place over 12 three minute rounds with one minute rest between rounds.
+•In professional boxing, bouts take place over 12 three minute rounds with one minute rest between rounds.
 
-The only method of attack is punching with a clenched fist and you may not strike below the belt, in the kidneys or the back of your opponents head or neck.
+•The only method of attack is punching with a clenched fist and you may not strike below the belt, in the kidneys or the back of your opponents head or neck.
 
-You cannot use the ropes for leverage.
+•You cannot use the ropes for leverage.
 
-You cannot hit an opponent when they are down.
+•You cannot hit an opponent when they are down.
 
-A boxer hit with a low blow can take five minutes to recover.
+•A boxer hit with a low blow can take five minutes to recover.
 
-If an unintentional foul (such as a clash of heads) ends the fight before four rounds are completed this is a “no contest”, from the fifth onwards the decision goes to the judge’s cards and is either a technical decision for 
-either fighter or a technical draw.
+•If an unintentional foul (such as a clash of heads) ends the fight before four rounds are completed this is a “no contest”, from the fifth onwards the decision goes to the judge’s cards and is either a technical decision for either fighter or a technical draw.
 
-**SCORING AND WINNING**
+# **EQUIPMENTS FOR BOXING**
+
+1. Gloves
+Training Gloves
+Bag Gloves
+Fighting Gloves
+Professional Fight Night Gloves
+2. Boxing Shoes
+3. Hand Wraps
+4. Headgear
+5. Kidney Belt
+6. Masks
+7. Mouthguard
+8. Groin Protector
+9. Hand Pads
+10. Heavy Bag
+11. Speedbag
+12. Double-End Bag
+13. Reflex Bag
+14. Heavy Bag Stand
+15. Speed Bag Platform
+16. Uppercut Bag
+17. Punch Mitts
+18. Focus Mitts
+19. Slipping Mitts
+20. Training Mitts
+21. Punch Shield
+22. Punching Bag
+23. Body Target
+24. Tear-Drop Target
+25. Training Dummy
+26. Side-to-Side Targeting
+27. Boxing Robe
+28. Boxing Shorts
+29. Boxing Bell
+30. Boxing Jumping Rope
+31. Boxing Parachutes
+32. Boxing Body Protector
+33. Boxing Leg Guards
+
+# **SCORING AND WINNING**
 
 At professional level the bouts are scored by three ringside judges using a subjective method based on which boxer they felt won each individual round. If the match is undecided by knockout, retirement or disqualification then the judges’ scorecards are used. If all three judges agree the decision is unanimous, whilst if two think one fighter won it is a split decision. If two judges mark the fight level, or one does and the other two are divided, the fight is classed as a draw.
 
@@ -39,5 +78,4 @@ It is, however, more common for a fight, especially at the heavier weights, to b
 The winner is either as scored by the judges if the fight goes the distance or is decided by knockout, technical knockout or disqualification, as detailed above.
 
 In amateur bouts different methods are used, for example the referee may simply decide or ringside judges use electronic scoring to count the number of blows landed.
-
 
