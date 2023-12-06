@@ -29,6 +29,8 @@ Although the term boxing is commonly attributed to Western boxing, in which only
 
 # **EQUIPMENTS FOR BOXING**
 
+![image](https://evolutionproequipment.files.wordpress.com/2013/11/evolutionattachment.jpg)
+
 1. Gloves
 Training Gloves
 Bag Gloves
